@@ -1,0 +1,9 @@
+{
+    // "typescript.tsdk": "node_modules/typescript/lib",
+    // "compilerOptions": {
+    //     "experimentalDecorators": true,
+    //     "allowJs": true
+    // },
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+}

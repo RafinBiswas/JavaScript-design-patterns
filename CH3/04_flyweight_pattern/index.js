@@ -1,0 +1,1 @@
+console.log('FlyWeight codding pattern prevent to create multiple same element like singleton coding pattern.');
